@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_TVS_AAK
+D Schottky diode, anode on pins 1 and 2
+K diode Schottky SCHDPAK
+F ~
+$ENDCMP
+#
+#End Doc Library
